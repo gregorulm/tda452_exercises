@@ -2,13 +2,13 @@ Gregor Ulm
 2013-12-31
 
 TDA 452: Functional Programming
-Solution to Exercises
+Solutions to Exercises
 
 This directory contains solutions to the exercises that were part of
 the fall 2013 offering of the course TDA452: Functional Programming
 at Chalmers University of Technology.
 
-Those exercises were voluntary. No academic credit was given, either,
+Those exercises were voluntary. No academic credit was given,
 which is why I'm uploading those files.
 
 By itself, the files may not be particularly useful. However,
@@ -22,4 +22,3 @@ entire functions, or some refactored expressions.
 
 
 [1] http://www.cse.chalmers.se/edu/year/2013/course/TDA452/
-
